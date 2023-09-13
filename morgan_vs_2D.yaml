@@ -17,7 +17,7 @@
 
     model:
       name: RFModeller
-      iterations: 3
+      iterations: 10
       initial_sample_size: 10 # this option is ignored when seeds are set
       acquisition_size: 10
       acquisition_method: greedy
@@ -35,7 +35,7 @@
 
     model:
       name: RFModeller
-      iterations: 3
+      iterations: 10
       initial_sample_size: 10 # this option is ignored when seeds are set
       acquisition_size: 10
       acquisition_method: greedy
